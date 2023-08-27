@@ -6,6 +6,15 @@ Dis.AI is a Discord bot that allows you to create your own, fully personalized c
   <img width="200" height="200" src="https://github.com/jacobjude/Dis.AI/assets/118640159/7379714b-db37-4d81-84b3-09be3bf5de1a">
 </p>
 
+Note: The official Dis.AI bot has been closed. Thank you to everyone that has used the bot and made it happen!
+
+Here are some statistics Dis.AI accrewed over its ~2.5 month run:
+- [Over 179,000 active users across over 1000 servers](https://raw.githubusercontent.com/jacobjude/Dis.AI/main/DisAIstats.png)
+- [1866 total servers](https://raw.githubusercontent.com/jacobjude/Dis.AI/main/SomeMoreStats.png) joined.
+- Over [**1.1 million** GPT responses sent in a single month](https://raw.githubusercontent.com/jacobjude/Dis.AI/main/SomeMoreStats.png) (July 28th, 2023 - August 28th, 2023)
+- Over[ 1,000 monthly votes](https://raw.githubusercontent.com/jacobjude/Dis.AI/main/DisAITopggStats.png) and [8 very kind (five-star) reviews](https://github.com/jacobjude/Dis.AI/blob/main/top.gg%20reviews.png) on top.gg :)
+
+
 ## Table of Contents
 - [Commands](#commands)
 - [Chatbot settings](#settings-options)
@@ -15,16 +24,16 @@ Dis.AI is a Discord bot that allows you to create your own, fully personalized c
 - [License](#license)
 
 #
-Fully customizable  🎨
+### Fully customizable  🎨
 - Customize the prompt, chat with PDFs & YouTube videos, search the web, have chatbots converse with each other, and so much more!
 
-Free to use✨
+### Free to use✨
 - No sign-ups or registrations; all features are completely free to use.
 
-Private  🥷
+### Private  🥷
 - Your conversations are never used for any data collection or training.
 
-and more...  (see below)🔥
+### and more...  (see below)🔥
 
 ## Commands
 - `/create`: Creates a new chatbot.
@@ -68,12 +77,15 @@ and more...  (see below)🔥
 - `Long term memory` uses the Pinecone and OpenAI APIs to generate an embedding and upsert it to a vector DB.
 - `Regenerate, continue, and delete reactions` that appear below chatbot responses to easily control outputs.
 - Enable multiple chatbots in one channel for a `dynamic group conversation` where they understand and respond to each other based on mentions.
+- Stored user information with `MongoDB`
   
 
-## Showcase
+## Preview
 ![image](https://github.com/jacobjude/Dis.AI/assets/118640159/8eef85de-c583-43b3-b860-35221005a179)
 ![image](https://github.com/jacobjude/Dis.AI/assets/118640159/57f046b5-decd-4f6e-b498-ec4a115c3771)
 ![image](https://github.com/jacobjude/Dis.AI/assets/118640159/dfca0898-1bda-4252-a5f8-d2d86aab666c)
+
+(The UI in this video is pretty old; the current version's UI is much improved.)
 
 [Video showcase](https://github.com/jacobjude/Dis.AI/assets/118640159/b3f98f46-a355-42db-97cf-d89d9a0aab95)
 
