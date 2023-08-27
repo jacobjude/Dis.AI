@@ -6,7 +6,7 @@ Dis.AI is a Discord bot that allows you to create your own, fully personalized c
   <img width="200" height="200" src="https://github.com/jacobjude/Dis.AI/assets/118640159/7379714b-db37-4d81-84b3-09be3bf5de1a">
 </p>
 
-Note: The official Dis.AI bot has been closed. Thank you to everyone that has used the bot and made it happen!
+Note: The official Dis.AI bot is no longer operational. Thank you to everyone that used the bot and made it happen!
 
 Here are some statistics Dis.AI accrewed over its ~2.5 month run:
 - [Over 179,000 active users across over 1000 servers](https://raw.githubusercontent.com/jacobjude/Dis.AI/main/DisAIstats.png)
