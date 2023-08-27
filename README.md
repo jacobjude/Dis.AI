@@ -78,7 +78,7 @@ and more...  (see below)🔥
 [Video showcase](https://github.com/jacobjude/Dis.AI/assets/118640159/b3f98f46-a355-42db-97cf-d89d9a0aab95)
 
 ## Contact
-If you have any questions or need support, feel free to contact us at [email](mailto:jacob.jude03@gmail.com).
+If you have any questions or need support, feel free to contact us at my [email.](mailto:jacob.jude03@gmail.com).
 
 ## License
 This project is licensed under the [Apache License 2.0](LICENSE).
