@@ -73,10 +73,10 @@ Here are some statistics Dis.AI accrewed over its ~2.5 month run:
 ## Other Features
 - A `credit system` in which users could vote or purchase credits to be able to use the bot. Payments were processed through the Stripe API.
 - A `voting system` in which users could vote for Dis.AI on Top.GG (a Discord bot listing site) and be rewarded with credits. Votes were processed with the Top.GG API.
-- Collected `usage statistics and analytics` that detailed exactly what commands and features users were using and when.
 - `Long term memory` uses the Pinecone and OpenAI APIs to generate an embedding and upsert it to a vector DB.
 - `Regenerate, continue, and delete reactions` that appear below chatbot responses to easily control outputs.
 - Enable multiple chatbots in one channel for a `dynamic group conversation` where they understand and respond to each other based on mentions.
+- Collected `usage statistics and analytics` that detailed exactly what commands and features users were using and when.
 - Stored user information with `MongoDB`
   
 
