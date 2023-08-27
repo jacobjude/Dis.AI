@@ -3,7 +3,7 @@
 Dis.AI is a Discord bot that allows you to create your own, fully personalized chatbots with long term memory. With Dis.AI, you can customize prompts, chat with PDFs & YouTube videos, search the web, have chatbots converse with each other, and much more!
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/jacobjude/Dis.AI/assets/118640159/7379714b-db37-4d81-84b3-09be3bf5de1a">
+  <img width="300" height="300" src="https://github.com/jacobjude/Dis.AI/assets/118640159/7379714b-db37-4d81-84b3-09be3bf5de1a">
 </p>
 
 Note: The official Dis.AI bot is no longer operational. Thank you to everyone that used the bot and made it happen!
