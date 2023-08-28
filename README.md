@@ -8,7 +8,7 @@ Dis.AI is a Discord bot that allows you to create your own, fully personalized c
 
 Note: The official Dis.AI bot is no longer operational. Thank you to everyone that used the bot and made it happen!
 
-A few statistics that Dis.AI accrewed over its ~2.5 month run:
+A few statistics that Dis.AI accrewed over its ~2 month run:
 - [Over 179,000 active users across over 1000 servers](https://raw.githubusercontent.com/jacobjude/Dis.AI/main/DisAIstats.png)
 - [1866 total servers](https://raw.githubusercontent.com/jacobjude/Dis.AI/main/SomeMoreStats.png) joined.
 - Over [**1.1 million** GPT responses sent in a single month](https://raw.githubusercontent.com/jacobjude/Dis.AI/main/SomeMoreStats.png) (July 28th, 2023 - August 28th, 2023)
