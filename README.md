@@ -81,11 +81,10 @@ A few statistics that Dis.AI accrewed over its ~2 month run:
   
 
 ## Preview
+Note: The UI here is pretty old; the latest version's UI is significantly better. I plan to redo this section soon.
 ![image](https://github.com/jacobjude/Dis.AI/assets/118640159/8eef85de-c583-43b3-b860-35221005a179)
 ![image](https://github.com/jacobjude/Dis.AI/assets/118640159/57f046b5-decd-4f6e-b498-ec4a115c3771)
 ![image](https://github.com/jacobjude/Dis.AI/assets/118640159/dfca0898-1bda-4252-a5f8-d2d86aab666c)
-
-(Note: The UI in this video is pretty old; the current version's UI is much improved.)
 
 [Video showcase](https://github.com/jacobjude/Dis.AI/assets/118640159/b3f98f46-a355-42db-97cf-d89d9a0aab95)
 
